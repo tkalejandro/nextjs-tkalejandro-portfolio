@@ -1,34 +1,114 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PORTFOLIO | J. Alejandro Coronado
 
-## Getting Started
+Full-Stack Web Developer | Entrepreneur| International Hospitality | HTML | SCSS | JavaScript ES6 | React.js | Next.js | Node.js | Express
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+## Things To do:
 ```
+Header Component
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Logo 
+- navigation
+    - home
+    - about
+    - projects
+    - contact
+```
+```
+Banner Component
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Title
+- SubTitle
+- Languages
+    - HTML
+    - CSS
+    - SCSS
+    - JavaScript
+    - Bootstrap
+    - React JS
+    - Node JS
+    - Express JS
+    - MongoDB
+- CogAnimationContainer
+    - Cog1
+    - Cog2
+    - Cog3
+    - Cog4
+    - Cog5
+    - Cog6
+```
+```
+MainPhoto Component
+```
+```
+Greetings
+    - Description
+    . Button text=LinkedIn url=http (repeat)
+```
+```
+MyInterests
+    -InterestItem
+        - Hospitality
+        - Technology
+        - Coding
+        - Entrepreneurship
+```
+```
+Tech Languages
+    - Front End Languages
+        - TableTechLanguage data=FrontEndLanguages
+        - TableTechLanguage data=BackEndLanguages
+```
+```
+OtherTools
+    - OtherToolsItem
+        -Github
+        -Branches
+        - Slack
+        - Discord
+        - Trello
+        - Ubuntu
+        - Google Analytics
+        - Google Ads
+        - Facebook Ads
+```
+```
+ProjectCard data=project-data
+    - CardImage data.image
+    - CardTitle data.title
+    - CardDescription data.description
+    - CardTools data.tools
+    - CardLinks
+        - GitHub data.links.github
+        - More  (Link to Full Descriptioon)
+        - Web
+        
+```
+```
+ContactDetails
+    - email
+    - skype
+    - phone
+```
+```
+ContactForm
+    - FullName
+    - Your Email
+    - Your Message
+    - Button text="Send Message" function=Subtmit
+```
+```
+Footer Component
+    - FullName
+    - TechEducation
+    - SocialLinks
+        - GitHub
+        - LinkedIn
+    - Sign ALEJANDRO
+```
 
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# nextjs-tkalejandro-portfolio
