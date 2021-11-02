@@ -2,6 +2,7 @@
 
 Full-Stack Web Developer | Entrepreneur| International Hospitality | HTML | SCSS | JavaScript ES6 | React.js | Next.js | Node.js | Express
 
+TEST: New Mac
 ## Things To do:
 ```
 Header Component
